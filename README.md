@@ -176,12 +176,3 @@ structure.
 │
 ├── images/
 │   └── lab3_homophily_null_distribution.png
-│
-├── report/
-│   └── Lab3_LastFM_Homophily_Report.pdf
-│
-└── data/
-    ├── lastfm_asia_edges.csv
-    ├── lastfm_asia_target.csv
-    ├── lastfm_asia_features.json
-    └── README.txt
